@@ -1,22 +1,26 @@
 # Data Analytics: Mid-Term Project
 
 ## Team:
-Olga Gnezdilova
-Olivia Ihuoma Ojinji-Kotschka
-Flora Kwong
+Olga Gnezdilova<br>
+Olivia Ihuoma Ojinji-Kotschka<br>
+Flora Kwong<br>
 
 ## Business Case:
 Job seekers do not know what salaries they can expect based on existing tools and do not know how to begin salary negotiations with recruiters.
 
 ## Goal:
-Deliver predictions on what salaries job seekers can expect/negotiate with
+Deliver predictions on what salaries job seekers can expect/negotiate with<br>
+Working slide deck: https://docs.google.com/presentation/d/1VuXBSg8rfCrgQ387rBxPqx99X7QNehoeXmGznOsTlA4/edit#slide=id.g2b5e496afa4_0_3
  
 ## Description of the dataset:
-Table of data science jobs from 2020-2023
+1. Table of data science jobs from 2020-2023: https://github.com/Oliviasteph5/Mid_Term_Project/commit/03f47ede8baeabf674468d66b98fdb2d9dc2c010
  - majority of jobs are based in the US, a few European countries, and misc.
  - relatively well structured, with salaries already translated into USD
+2. Table of data science jobs 2024 – potentially vertically joined with first table: https://www.kaggle.com/datasets/kuralamuthan300/glassdoor-data-science-jobs
+ - majority of jobs again based in the US
+ - fewer columns than Table 1, will need to explore which variables we need
  
-### Columns:
+### Columns in Table 1:
 - Work year
 - Experience level
 - Employment type
