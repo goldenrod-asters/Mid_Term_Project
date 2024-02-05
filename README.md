@@ -1,9 +1,9 @@
 # Data Analytics: Mid-Term Project
 
 ## Team:
-Olga Gnezdilova
-Olivia Ihuoma Ojinji-Kotschka
-Flora Kwong
+Olga Gnezdilova<br>
+Olivia Ihuoma Ojinji-Kotschka<br>
+Flora Kwong<br>
 
 ## Business Case:
 Job seekers do not know what salaries they can expect based on existing tools and do not know how to begin salary negotiations with recruiters.
@@ -31,28 +31,28 @@ Table of data science jobs from 2020-2023
   
 ## Project Plan:
 ### Day 1 (Friday):
-Structure and scope the project
-Finalize data set(s)
-EDA
+Structure and scope the project<br>
+Finalize data set(s)<br>
+EDA<br>
 Begin data wrangling:
  - Cleaning
  - Structuring
  - Preprocessing
 ### Day 2 (Monday):
-Continue data wrangling as necessary
-Determine input (X) and target (y) variables
+Continue data wrangling as necessary<br>
+Determine input (X) and target (y) variables<br>
 ### Day 3 (Tuesday):
-Understand the distribution of our variables
-Decide how to transform the data
-Transform the data
+Understand the distribution of our variables<br>
+Decide how to transform the data<br>
+Transform the data<br>
 ### Day 4 (Wednesday):
 Data modelling
  - Split the data
  - Create a model
  - Assess model metrics
-Assess various models based on feature importance, etc.
-Decide on final model
+Assess various models based on feature importance, etc.<br>
+Decide on final model<br>
 ### Day 5 (Thursday):
-Visualisation
-Summarize findings/conclusions
-Prepare presentation
+Visualisation<br>
+Summarize findings/conclusions<br>
+Prepare presentation<br>
